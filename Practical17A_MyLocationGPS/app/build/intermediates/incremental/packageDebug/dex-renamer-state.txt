@@ -1,0 +1,7 @@
+#Thu Jul 20 16:15:41 SGT 2017
+base.0=C\:\\Users\\iluv_\\AndroidStudioProjects\\MyLocationGPS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80349505c08f764d2d21f45edea5202e1847b860
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\iluv_\\AndroidStudioProjects\\MyLocationGPS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f1ed7fbac0b493b17154694ac0a25415ee0ff908\\classes.dex
+base.1=C\:\\Users\\iluv_\\AndroidStudioProjects\\MyLocationGPS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f1ed7fbac0b493b17154694ac0a25415ee0ff908
+file.0=C\:\\Users\\iluv_\\AndroidStudioProjects\\MyLocationGPS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80349505c08f764d2d21f45edea5202e1847b860\\classes.dex

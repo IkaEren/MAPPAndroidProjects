@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\iluv_\AndroidStudioProjects\MyLocationGPS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aaa25400d97700aa5705b1a4d00da00d29b71c2a">
+        <dex dex="C:\Users\iluv_\AndroidStudioProjects\MyLocationGPS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f1ed7fbac0b493b17154694ac0a25415ee0ff908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iluv_\AndroidStudioProjects\MyLocationGPS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\iluv_\AndroidStudioProjects\MyLocationGPS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80349505c08f764d2d21f45edea5202e1847b860\classes.dex" />
+    </item>
+
+</items>
